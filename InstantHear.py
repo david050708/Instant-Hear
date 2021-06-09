@@ -5,7 +5,7 @@ import tkinter as tk
 root = tk.Tk()
 root.geometry("500x500")
 root.title("Instant Hear")
-root.iconbitmap("C:/Users/kani/Downloads/hnet.com-image.ico")
+root.iconbitmap("")#Type your file name
 
 
 text=Entry(root,width=50,bg="white",fg="black",font=("arial","16"))
